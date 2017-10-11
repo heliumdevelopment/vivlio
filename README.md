@@ -1,3 +1,1 @@
-# Welcome to Vivlio!
-
-## Update from Josiah
+# Welcome to Vivilio!
